@@ -1,5 +1,5 @@
 # Ikea-UI
-I have used to HTML and CSS
+I have used to HTML and CSS to make this Beautiful IKEA Website
 
 
 ![home](https://user-images.githubusercontent.com/95397948/148345211-ff8904df-a255-4e19-bc70-9c6152d38d19.png)
